@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+<img width="1200" height="300" alt="enhanced_7eba07caf85447c10a20836076fc28ec(1)" src="https://github.com/user-attachments/assets/10d628a6-5f80-4c89-9d9c-fffa30c8ca8f" />
+
 # ────୨ Hi! I'm rabyte-baby! ৎ────
 
 ### ⋆｡‧˚ʚ Programming languages that I'm currently into ɞ˚‧｡⋆
