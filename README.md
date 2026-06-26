@@ -16,5 +16,8 @@
 - Currently exploring many programming languages
 
 <div align="center">
+  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cDR3Ym93bXN6N3BwY3R6OHp5bXN6N3BwY3R6OHp5bXN6N3BwY3R6&ep=v1_internal_gif_by_id/w7x9v6d9f8x1/giphy.gif" width="150px">
+  
 </div>
+
