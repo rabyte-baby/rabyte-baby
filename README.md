@@ -14,3 +14,10 @@
 - Artist
 - Badly wanted to code without AI 
 - Currently exploring many programming languages
+
+### 🌸 My Coding Activity
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabyte-baby&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb6c1&text_color=e6edf3&icon_color=ffc0cb&langs_count=5" alt="rabyte-baby's Top Langs" />
+  
+</div>
